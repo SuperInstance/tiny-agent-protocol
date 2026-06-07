@@ -1,0 +1,9 @@
+[package]
+name = "tiny-agent-protocol"
+version = "0.1.0"
+edition = "2021"
+description = "Minimal HTTP protocol for microcontrollers with 256-byte request/response frames, plain text serialization, and composable middleware"
+license = "MIT"
+repository = "https://github.com/SuperInstance/tiny-agent-protocol"
+
+[dependencies]
